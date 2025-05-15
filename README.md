@@ -15,8 +15,9 @@ To convert 230V AC into a regulated 9V DC supply using a full-wave bridge rectif
 ## Circuit Function
 The circuit takes AC input, steps it down, rectifies it, smooths it with a capacitor, and regulates it to provide a constant 5V DC output.
 
-## Project Report
-You can read the full report here: [AC DC regulated power supply [ Project Report ]](./AC DC regulated power supply [ Project Report ])
+## Project Report  
+You can read the full report here: [AC DC regulated power supply \[ Project Report \].pdf](./AC%20DC%20regulated%20power%20supply%20%5B%20Project%20Report%20%5D.pdf)
+
 
 ## Status
 ✅ Project completed in Semester 1
